@@ -1,6 +1,6 @@
+<!-- 
 ### Hi there 👋
 
-<!--
 **Kaiorc/Kaiorc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<h1 align="center">Welcome to my profile!</h1>
+<br>
+
+<summary>Github Stats</summary>
+
+<div>
+  <a href="https://github.com/Kaiorc">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kaiorc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kaiorc&layout=compact&langs_count=8&theme=tokyonight"/>
+<div>
