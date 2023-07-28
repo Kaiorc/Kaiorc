@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 
-<div align="center">
+<div align="center" style="margin: 0">
   <a href="https://www.linkedin.com/in/kaiorc/">
   <img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5">
 <!--   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kaiorc&rank_icon=github&show_icons=true&include_all_commits=true&theme=nord&include_all_commits=true&count_private=true&hide_rank=true"/> -->
