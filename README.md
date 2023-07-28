@@ -15,14 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d3d3d3&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Kaiorc;Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d3d3d3&size=35&center=true&vCenter=true&width=1000&lines=Welcome!+:%29;I'm+Kaiorc)](https://git.io/typing-svg)
 
 
 <div style="display: inline_block">
   <br>
   <a href="https://github.com/Kaiorc">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kaiorc&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kaiorc&layout=compact&langs_count=8&theme=nord"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiorc&hide_progress=true&theme=nord&langs_count=10"/>
+<!--   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kaiorc&hide_progress=true&layout=compact&langs_count=10&theme=nord"/> -->
 </div>
 
 <!-- Repositório com catálogo de badges: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
