@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <br>
   <a href="https://github.com/Kaiorc">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kaiorc&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kaiorc&layout=compact&langs_count=8&theme=synthwave"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kaiorc&layout=compact&langs_count=8&theme=nord"/>
 </div>
 
 <!-- Repositório com catálogo de badges: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
