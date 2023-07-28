@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d3d3d3&size=35&center=true&vCenter=true&width=1000&lines=Welcome!+%28%E3%81%A5%20%E2%97%95%E2%80%BF%E2%97%95%20%29%E3%81%A5;Bem+vindo!+%28%E3%81%A5%20%E2%97%95%E2%80%BF%E2%97%95%20%29%E3%81%A5)](https://git.io/typing-svg)
 
 
-
-
 <!-- Repositório com catálogo de badges: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 <h1 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="30"></h1>
 <div align="center">
@@ -36,15 +34,15 @@ Here are some ideas to get you started:
   <img align="center" alt="Csharp" src="https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=c-sharp&logoColor=darkmagenta">
   <img align="center" alt="C" src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=cornflowerblue">
   <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=dodgerblue">
+  <img align="center" alt="SQL" src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=bookstack&logoColor=3775A9">          
   <img align="center" alt="LaTex" src="https://img.shields.io/badge/LaTeX-0D1117?style=for-the-badge&logo=LaTeX&logoColor=white">          
   <img align="center" alt="Markdown" src="https://img.shields.io/badge/Markdown-0D1117?style=for-the-badge&logo=markdown&logoColor=white">          
   <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-0D1117?style=for-the-badge&logo=git&logoColor=tomato">
   <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white">
   <img align="center" alt="GitLab" src="https://img.shields.io/badge/GitLab-0D1117?style=for-the-badge&logo=gitlab&logoColor=orange">
-  <img align="center" alt="SQL" src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=bookstack&logoColor=3775A9">          
+  <img align="center" alt="Firebase" src="https://img.shields.io/badge/firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=darkorange">
   <img align="center" alt="SQLite" src="https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=cornflowerblue">          
   <img align="center" alt="MS SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-0D1117?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=ff0000">          
-  <img align="center" alt="Firebase" src="https://img.shields.io/badge/firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=darkorange">
   <img align="center" alt="MS Azure" src="https://img.shields.io/badge/microsoft%20azure-0D1117?style=for-the-badge&logo=microsoft-azure&logoColor=dodgerblue">          
   <img align="center" alt="Netlify" src="https://img.shields.io/badge/Netlify-0D1117?style=for-the-badge&logo=netlify&logoColor=00C7B7">          
   <img align="center" alt="NPM" src="https://img.shields.io/badge/npm-0D1117?style=for-the-badge&logo=npm&logoColor=ff0000">          
