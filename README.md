@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Welcome to my profile!</h1>
-<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d3d3d3&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Kaiorc;Welcome!+:%29)](https://git.io/typing-svg)
+
 
 <div style="display: inline_block">
   <br>
@@ -27,32 +27,32 @@ Here are some ideas to get you started:
 
 <!-- Repositório com catálogo de badges: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" alt="Csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-  <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-  <img align="center" alt="GitLab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
-  <img align="center" alt="Firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
-  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img align="center" alt="LaTex" src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white">          
-  <img align="center" alt="MS Azure" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">          
-  <img align="center" alt="MS SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">          
-  <img align="center" alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">          
-  <img align="center" alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">          
-  <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">          
-  <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">          
-  <img align="center" alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">          
-  <img align="center" alt="Material Design" src="https://img.shields.io/badge/material%20design-757575?style=for-the-badge&logo=material%20design&logoColor=white">          
-  <img align="center" alt="Material UI" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white">          
-  <img align="center" alt="Node js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">          
-  <img align="center" alt="NPM" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">          
-  <img align="center" alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">          
-  <img align="center" alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">          
-  <img align="center" alt="Vite" src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E">          
+  <img align="center" alt="Js" src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117">
+  <img align="center" alt="React" src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117">
+  <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=orange">
+  <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=deepskyblue">
+  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=gold">
+  <img align="center" alt="Csharp" src="https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=c-sharp&logoColor=darkmagenta">
+  <img align="center" alt="C" src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=cornflowerblue">
+  <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=dodgerblue">
+  <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-0D1117?style=for-the-badge&logo=git&logoColor=tomato">
+  <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white">
+  <img align="center" alt="GitLab" src="https://img.shields.io/badge/GitLab-0D1117?style=for-the-badge&logo=gitlab&logoColor=orange">
+  <img align="center" alt="Firebase" src="https://img.shields.io/badge/firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=orange">
+  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img align="center" alt="LaTex" src="https://img.shields.io/badge/LaTeX-0D1117?style=for-the-badge&logo=LaTeX&logoColor=white">          
+  <img align="center" alt="MS Azure" src="https://img.shields.io/badge/microsoft%20azure-0D1117?style=for-the-badge&logo=microsoft-azure&logoColor=dodgerblue">          
+  <img align="center" alt="MS SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-0D1117?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=darkred">          
+  <img align="center" alt="SQLite" src="https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=cornflowerblue">          
+  <img align="center" alt="Blender" src="https://img.shields.io/badge/blender-%230D1117.svg?style=for-the-badge&logo=blender&logoColor=orange">          
+  <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=blueviolet">          
+  <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=rebeccapurple">          
+  <img align="center" alt="Markdown" src="https://img.shields.io/badge/Markdown-0D1117?style=for-the-badge&logo=markdown&logoColor=white">          
+  <img align="center" alt="Material Design" src="https://img.shields.io/badge/material%20design-0D1117?style=for-the-badge&logo=material%20design&logoColor=white">          
+  <img align="center" alt="Material UI" src="https://img.shields.io/badge/Material%20UI-0D1117?style=for-the-badge&logo=mui&logoColor=royalblue">          
+  <img align="center" alt="Node js" src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=seagreen">          
+  <img align="center" alt="NPM" src="https://img.shields.io/badge/npm-0D1117?style=for-the-badge&logo=npm&logoColor=darkred">          
+  <img align="center" alt="React Router" src="https://img.shields.io/badge/React_Router-0D1117?style=for-the-badge&logo=react-router&logoColor=darkred">          
+  <img align="center" alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=deepskyblue">          
+  <img align="center" alt="Vite" src="https://img.shields.io/badge/Vite-0D1117?style=for-the-badge&logo=vite&logoColor=FFD62E">          
 <div>
