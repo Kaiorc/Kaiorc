@@ -37,7 +37,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=rebeccapurple">          
   <img align="center" alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=deepskyblue">          
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=gold">
-  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ff0000">
   <img align="center" alt="Csharp" src="https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=c-sharp&logoColor=darkmagenta">
   <img align="center" alt="C" src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=cornflowerblue">
   <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=dodgerblue">
@@ -48,11 +48,11 @@ Here are some ideas to get you started:
   <img align="center" alt="GitLab" src="https://img.shields.io/badge/GitLab-0D1117?style=for-the-badge&logo=gitlab&logoColor=orange">
   <img align="center" alt="SQL" src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=bookstack&logoColor=3775A9">          
   <img align="center" alt="SQLite" src="https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=cornflowerblue">          
-  <img align="center" alt="MS SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-0D1117?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=darkred">          
+  <img align="center" alt="MS SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-0D1117?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=ff0000">          
   <img align="center" alt="Firebase" src="https://img.shields.io/badge/firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=darkorange">
   <img align="center" alt="MS Azure" src="https://img.shields.io/badge/microsoft%20azure-0D1117?style=for-the-badge&logo=microsoft-azure&logoColor=dodgerblue">          
-  <img align="center" alt="React Router" src="https://img.shields.io/badge/React_Router-0D1117?style=for-the-badge&logo=react-router&logoColor=darkred">          
-  <img align="center" alt="NPM" src="https://img.shields.io/badge/npm-0D1117?style=for-the-badge&logo=npm&logoColor=darkred">          
+  <img align="center" alt="React Router" src="https://img.shields.io/badge/React_Router-0D1117?style=for-the-badge&logo=react-router&logoColor=ff0000">          
+  <img align="center" alt="NPM" src="https://img.shields.io/badge/npm-0D1117?style=for-the-badge&logo=npm&logoColor=ff0000">          
   <img align="center" alt="Vite" src="https://img.shields.io/badge/Vite-0D1117?style=for-the-badge&logo=vite&logoColor=FFD62E">          
   <img align="center" alt="Material UI" src="https://img.shields.io/badge/Material%20UI-0D1117?style=for-the-badge&logo=mui&logoColor=royalblue">          
   <img align="center" alt="Material Design" src="https://img.shields.io/badge/material%20design-0D1117?style=for-the-badge&logo=material%20design&logoColor=white">          
