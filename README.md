@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 </div>
 
 <!-- Repositório com catálogo de badges: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
-<div style="display: inline_block">
-  <h2>Technologies</h2>
+<h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
+<div align="center">
   <img align="center" alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117">
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117">
   <img align="center" alt="Node js" src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=seagreen">          
