@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d3d3d3&size=35&center=true&vCenter=true&width=1000&lines=Welcome!+%28%E3%81%A5%20%E2%97%95%E2%80%BF%E2%97%95%20%29%E3%81%A5;I'm+Kaiorc)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d3d3d3&size=35&center=true&vCenter=true&width=1000&lines=Welcome!+%28%E3%81%A5%20%E2%97%95%E2%80%BF%E2%97%95%20%29%E3%81%A5;I'm+Kaiorc;Bem+vindo!+%28%E3%81%A5%20%E2%97%95%E2%80%BF%E2%97%95%20%29%E3%81%A5;Eu+sou+o+Kaiorc)](https://git.io/typing-svg)
 
 
 <div style="display: inline_block">
