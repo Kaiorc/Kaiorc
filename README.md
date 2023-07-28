@@ -18,8 +18,10 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d3d3d3&size=35&center=true&vCenter=true&width=1000&lines=Welcome!+%28%E3%81%A5%20%E2%97%95%E2%80%BF%E2%97%95%20%29%E3%81%A5;Bem+vindo!+%28%E3%81%A5%20%E2%97%95%E2%80%BF%E2%97%95%20%29%E3%81%A5)](https://git.io/typing-svg)
 
 
-<div style="display: inline_block">
-  <a href="https://github.com/Kaiorc">
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/kaiorc/">
+  <img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5">
 <!--   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kaiorc&rank_icon=github&show_icons=true&include_all_commits=true&theme=nord&include_all_commits=true&count_private=true&hide_rank=true"/> -->
   <img height="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiorc&layout=normal&theme=nord&card_width=1000&langs_count=10&exclude_repo=compilador-minijava,avaliacao-de-desempenho"/>
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiorc&hide_progress=true&theme=nord&langs_count=10"/> -->
@@ -51,9 +53,10 @@ Here are some ideas to get you started:
   <img align="center" alt="MS SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-0D1117?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=ff0000">          
   <img align="center" alt="Firebase" src="https://img.shields.io/badge/firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=darkorange">
   <img align="center" alt="MS Azure" src="https://img.shields.io/badge/microsoft%20azure-0D1117?style=for-the-badge&logo=microsoft-azure&logoColor=dodgerblue">          
-  <img align="center" alt="React Router" src="https://img.shields.io/badge/React_Router-0D1117?style=for-the-badge&logo=react-router&logoColor=ff0000">          
+  <img align="center" alt="Netlify" src="https://img.shields.io/badge/Netlify-0D1117?style=for-the-badge&logo=netlify&logoColor=00C7B7">          
   <img align="center" alt="NPM" src="https://img.shields.io/badge/npm-0D1117?style=for-the-badge&logo=npm&logoColor=ff0000">          
   <img align="center" alt="Vite" src="https://img.shields.io/badge/Vite-0D1117?style=for-the-badge&logo=vite&logoColor=FFD62E">          
+  <img align="center" alt="React Router" src="https://img.shields.io/badge/React_Router-0D1117?style=for-the-badge&logo=react-router&logoColor=ff0000">          
   <img align="center" alt="Material UI" src="https://img.shields.io/badge/Material%20UI-0D1117?style=for-the-badge&logo=mui&logoColor=royalblue">          
   <img align="center" alt="Material Design" src="https://img.shields.io/badge/material%20design-0D1117?style=for-the-badge&logo=material%20design&logoColor=white">          
   <img align="center" alt="Blender" src="https://img.shields.io/badge/blender-%230D1117.svg?style=for-the-badge&logo=blender&logoColor=orange">          
