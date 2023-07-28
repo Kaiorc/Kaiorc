@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 <div style="display: inline_block">
   <br>
   <a href="https://github.com/Kaiorc">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kaiorc&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiorc&hide_progress=true&theme=nord&langs_count=10"/>
-<!--   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kaiorc&hide_progress=true&layout=compact&langs_count=10&theme=nord"/> -->
+<!--   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kaiorc&rank_icon=github&show_icons=true&include_all_commits=true&theme=nord&include_all_commits=true&count_private=true&hide_rank=true"/> -->
+  <img height="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiorc&layout=normal&theme=nord&card_width=1000&langs_count=10&exclude_repo=compilador-minijava,avaliacao-de-desempenho"/>
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiorc&hide_progress=true&theme=nord&langs_count=10"/> -->
 </div>
 
 <!-- Repositório com catálogo de badges: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-0D1117?style=for-the-badge&logo=git&logoColor=tomato">
   <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white">
   <img align="center" alt="GitLab" src="https://img.shields.io/badge/GitLab-0D1117?style=for-the-badge&logo=gitlab&logoColor=orange">
-  <img align="center" alt="Firebase" src="https://img.shields.io/badge/firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=orange">
+  <img align="center" alt="Firebase" src="https://img.shields.io/badge/firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=darkorange">
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=white">
   <img align="center" alt="LaTex" src="https://img.shields.io/badge/LaTeX-0D1117?style=for-the-badge&logo=LaTeX&logoColor=white">          
   <img align="center" alt="MS Azure" src="https://img.shields.io/badge/microsoft%20azure-0D1117?style=for-the-badge&logo=microsoft-azure&logoColor=dodgerblue">          
