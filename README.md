@@ -56,9 +56,3 @@ Here are some ideas to get you started:
   <img align="center" alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">          
   <img align="center" alt="Vite" src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E">          
 <div>
-
-<h3 align="center">Welcome</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
