@@ -51,7 +51,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Material UI" src="https://img.shields.io/badge/Material%20UI-0D1117?style=for-the-badge&logo=mui&logoColor=royalblue">          
   <img align="center" alt="Material Design" src="https://img.shields.io/badge/material%20design-0D1117?style=for-the-badge&logo=material%20design&logoColor=white">          
   <img align="center" alt="Blender" src="https://img.shields.io/badge/blender-%230D1117.svg?style=for-the-badge&logo=blender&logoColor=orange">          
-  <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=blueviolet">          
+  <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=violet">          
 <div>
 
 <p align="center">
