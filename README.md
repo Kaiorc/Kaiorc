@@ -56,6 +56,6 @@ Here are some ideas to get you started:
 
 <p align="center">
 <!--   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kaiorc&rank_icon=github&show_icons=true&include_all_commits=true&theme=nord&include_all_commits=true&count_private=true&hide_rank=true"/> -->
-  <img height="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiorc&layout=normal&theme=nord&card_width=1000&hide_border=true&langs_count=10&exclude_repo=compilador-minijava,avaliacao-de-desempenho,mineracao-massiva-de-dados"/>
+  <img height="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiorc&layout=normal&theme=nord&card_width=1000&hide_border=true&langs_count=8&exclude_repo=compilador-minijava,avaliacao-de-desempenho,mineracao-massiva-de-dados"/>
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiorc&hide_progress=true&theme=nord&langs_count=10"/> -->
 </p>
