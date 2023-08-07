@@ -43,7 +43,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Firebase" src="https://img.shields.io/badge/firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=darkorange">
   <img align="center" alt="SQLite" src="https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=cornflowerblue">          
   <img align="center" alt="MS SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-0D1117?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=ff0000">          
-  <img align="center" alt="MS Azure" src="https://img.shields.io/badge/microsoft%20azure-0D1117?style=for-the-badge&logo=microsoft-azure&logoColor=dodgerblue">          
+  <img align="center" alt="MS Azure DevOps" src="https://img.shields.io/badge/Azure_DevOps-0D1117?style=for-the-badge&logo=azure-devops&logoColor=dodgerblue">          
   <img align="center" alt="Netlify" src="https://img.shields.io/badge/Netlify-0D1117?style=for-the-badge&logo=netlify&logoColor=00C7B7">          
   <img align="center" alt="NPM" src="https://img.shields.io/badge/npm-0D1117?style=for-the-badge&logo=npm&logoColor=ff0000">          
   <img align="center" alt="Vite" src="https://img.shields.io/badge/Vite-0D1117?style=for-the-badge&logo=vite&logoColor=FFD62E">          
