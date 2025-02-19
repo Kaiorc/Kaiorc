@@ -39,7 +39,8 @@ Here are some ideas to get you started:
   <img align="center" alt="C" src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=cornflowerblue">
   <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=dodgerblue">
   <img align="center" alt="SQL" src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=bookstack&logoColor=3775A9">          
-  <img align="center" alt="LaTex" src="https://img.shields.io/badge/LaTeX-0D1117?style=for-the-badge&logo=LaTeX&logoColor=00C7B7">          
+<!--   <img align="center" alt="LaTex" src="https://img.shields.io/badge/LaTeX?style=for-the-badge&logo=LaTeX&logoColor=00C7B7">  -->
+  <img align="center" alt="LaTex" src="https://img.shields.io/badge/LaTeX-0D1117?style=for-the-badge&logo=LaTeX&logoColor=47A141">
   <img align="center" alt="Markdown" src="https://img.shields.io/badge/Markdown-0D1117?style=for-the-badge&logo=markdown&logoColor=white">          
   <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2CA5E0">
   <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-0D1117?style=for-the-badge&logo=git&logoColor=tomato">
