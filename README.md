@@ -47,6 +47,7 @@ Here are some ideas to get you started:
   <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white">
   <img align="center" alt="GitLab" src="https://img.shields.io/badge/GitLab-0D1117?style=for-the-badge&logo=gitlab&logoColor=orange">
   <img align="center" alt="Firebase" src="https://img.shields.io/badge/firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=darkorange">
+  <img align="center" alt="Appwrite" src="https://img.shields.io/badge/Appwrite-0D1117?style=for-the-badge&logo=Appwrite&logoColor=F02E65">
   <img align="center" alt="SQLite" src="https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=cornflowerblue">          
   <img align="center" alt="MS SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-0D1117?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=ff0000">          
   <img align="center" alt="MS Azure DevOps" src="https://img.shields.io/badge/Azure_DevOps-0D1117?style=for-the-badge&logo=azure-devops&logoColor=dodgerblue">          
@@ -58,6 +59,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Material Design" src="https://img.shields.io/badge/material%20design-0D1117?style=for-the-badge&logo=material%20design&logoColor=white">          
   <img align="center" alt="Blender" src="https://img.shields.io/badge/blender-%230D1117.svg?style=for-the-badge&logo=blender&logoColor=orange">          
   <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=violet">          
+  <img align="center" alt="Canva" src="https://img.shields.io/badge/Canva-0D1117.svg?&style=for-the-badge&logo=Canva&logoColor=%2300C4CC">          
 <div>
 
 <p align="center">
