@@ -63,9 +63,10 @@ Here are some ideas to get you started:
   <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=violet">          
   <img align="center" alt="Canva" src="https://img.shields.io/badge/Canva-0D1117.svg?&style=for-the-badge&logo=Canva&logoColor=%2300C4CC">          
 <div>
-
+<!-- https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=Kaiorc&layout=compact&theme=radical&count_private=true -->
 <p align="center">
 <!--   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kaiorc&rank_icon=github&show_icons=true&include_all_commits=true&theme=nord&include_all_commits=true&count_private=true&hide_rank=true"/> -->
-  <img height="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiorc&layout=normal&theme=nord&card_width=1000&hide_border=true&langs_count=8&exclude_repo=compilador-minijava,avaliacao-de-desempenho,mineracao-massiva-de-dados,java-do-zero-ao-profissional"/>
+  <!-- <img height="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiorc&layout=normal&theme=nord&card_width=1000&hide_border=true&langs_count=8&exclude_repo=compilador-minijava,avaliacao-de-desempenho,mineracao-massiva-de-dados,java-do-zero-ao-profissional"/> -->
+  <img height="400em" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=Kaiorc&layout=normal&theme=nord&count_private=true&card_width=1000&hide_border=true&langs_count=8&exclude_repo=compilador-minijava,avaliacao-de-desempenho,mineracao-massiva-de-dados,java-do-zero-ao-profissional"/>
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiorc&hide_progress=true&theme=nord&langs_count=10"/> -->
 </p>
